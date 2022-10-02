@@ -215,4 +215,4 @@ function listenToUser(hash) {
   };
 }
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=https://github.com/Wang-zhetao/FarmanNavs/dist/main.b80593b0.map
+//# sourceMappingURL=main.b80593b0.map
